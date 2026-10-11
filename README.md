@@ -1,3 +1,7 @@
+## 📱 Preview Application
+
+![App Preview](./public/assets/1.png)
+
 # ⚡ Fullstack React + CodeIgniter 4 Client App
 
 A modern, responsive client-side web application built with **React**, **Vite**, and **Tailwind CSS v4**. Integrated with CodeIgniter 4 REST API for real-time CRUD operations.
@@ -19,3 +23,4 @@ A modern, responsive client-side web application built with **React**, **Vite**,
    ```bash
    git clone [https://github.com/jeandra/my-react-app.git](https://github.com/jeandra/my-react-app.git)
    cd my-react-app
+   ```
